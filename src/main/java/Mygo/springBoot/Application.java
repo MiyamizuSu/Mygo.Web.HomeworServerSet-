@@ -1,4 +1,4 @@
-package Mygo.homework2.springBootServer.Mygo.homework2.springBootServer;
+package Mygo.springBoot;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

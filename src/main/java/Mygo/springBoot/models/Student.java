@@ -1,4 +1,4 @@
-package Mygo.models;
+package Mygo.springBoot.models;
 
 public class Student {
     private String studentName;

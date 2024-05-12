@@ -54,7 +54,7 @@
                 <artifactId>spring-boot-maven-plugin</artifactId>
                 <version>${spring-boot.version}</version>
                 <configuration>
-                    <mainClass>Mygo.homework2.springBootServer.Mygo.homework2.springBootServer.Application</mainClass>
+                    <mainClass>Mygo.springBoot.Application</mainClass>
                     <skip>true</skip>
                 </configuration>
                 <executions>

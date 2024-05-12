@@ -1,4 +1,4 @@
-package Mygo.homework2.springBootServer.Mygo.homework2.springBootServer;
+package Mygo.springBoot.Controller;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.CrossOrigin;
@@ -8,7 +8,7 @@ import org.springframework.web.bind.annotation.ResponseBody;
 
 import java.util.HashMap;
 import java.util.Map;
-import Mygo.models.Student;
+import Mygo.springBoot.models.Student;
 @Controller
 public class studentRegister {
     @RequestMapping("/user/register")
