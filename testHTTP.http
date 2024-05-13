@@ -1,0 +1,10 @@
+POST http://localhost:8080/user/register
+Content-Type: application/json
+
+{
+  "studentName": "zht",
+ "studentNumber": "6992",
+  "studentClass": "软件2205"
+}
+
+###
