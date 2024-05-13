@@ -16,6 +16,7 @@ import Mygo.springBoot.models.Student;
 @Controller
 public class studentRegister {
 
+    //依赖注入
     @Autowired
     private StudentBiz studentBiz;
 
